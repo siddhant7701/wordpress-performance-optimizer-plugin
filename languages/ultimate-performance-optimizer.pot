@@ -1,0 +1,90 @@
+# Copyright (C) 2026 Ultimate Performance Optimizer
+# This file is distributed under the GPL-2.0-or-later license.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Performance Optimizer 1.0.0\n"
+"Report-Msgid-Bugs-To: https://example.com/support\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-07-09T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-07-09T00:00:00+00:00\n"
+"X-Generator: Ultimate Performance Optimizer\n"
+"X-Domain: ultimate-performance-optimizer\n"
+
+msgid "Ultimate Performance Optimizer"
+msgstr ""
+
+msgid "Performance"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Frontend"
+msgstr ""
+
+msgid "Backend"
+msgstr ""
+
+msgid "WooCommerce"
+msgstr ""
+
+msgid "Elementor"
+msgstr ""
+
+msgid "Fonts"
+msgstr ""
+
+msgid "Images"
+msgstr ""
+
+msgid "Caching"
+msgstr ""
+
+msgid "JavaScript"
+msgstr ""
+
+msgid "CSS"
+msgstr ""
+
+msgid "Database"
+msgstr ""
+
+msgid "CDN"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "Tools"
+msgstr ""
+
+msgid "Logs"
+msgstr ""
+
+msgid "Diagnostics"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Safe Mode"
+msgstr ""
+
+msgid "Debug Mode"
+msgstr ""
+
+msgid "Optimization coverage"
+msgstr ""
+
+msgid "Core Web Vitals suggestions"
+msgstr ""
+
+msgid "Conflict detector"
+msgstr ""
